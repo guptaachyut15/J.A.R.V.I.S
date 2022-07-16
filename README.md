@@ -7,9 +7,14 @@ the user.
 ● Used multiple Python modules to complete the work in an average of 10 seconds.
 
 Try giving commands like:-
-/n->Search {{something}} on wikipedia
+->Search {{something}} on wikipedia
+
 ->Open Youtube
+
 ->Open Google
+
 ->Open mail
+
 ->Whats the time
+
 ->Play a random movie
