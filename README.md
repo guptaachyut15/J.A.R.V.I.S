@@ -7,7 +7,7 @@ the user.
 ● Used multiple Python modules to complete the work in an average of 10 seconds.
 
 Try giving commands like:-
-->Search {{something}} on wikipedia
+/n->Search {{something}} on wikipedia
 ->Open Youtube
 ->Open Google
 ->Open mail
